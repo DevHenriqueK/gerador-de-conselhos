@@ -1,0 +1,21 @@
+@media (max-width: 525px) {
+    .card {
+        max-width: 380px;
+    }
+}
+
+@media (max-width: 445px) {
+    .card {
+        max-width: 330px;
+    }
+}
+
+@media (max-width: 375px) {
+    .card {
+        max-width: 280px;
+    }
+
+    .advice-text {
+        font-size: 20px;
+    }
+}
